@@ -1,4 +1,12 @@
-# Simple Message Board Application
+
+# /special2 
+
+![demo](https://github.com/user-attachments/assets/94b63645-a710-4c39-90c9-7aad9aba0d81)
+
+
+
+
+# this is a far improved version of /special1 it is really nice, but it can be hacked by people who know how. TO fix the issue, the next version, /special3 will use a post form instead of entering the message in the url bar. 
 
 This is a very basic PHP-based message board application that allows users to post messages directly via the URL bar of their browser. Unlike typical message boards that use a form to submit content, this version requires users to append their messages directly to the URL using a query parameter. This README will guide you through how the application works, its limitations, and the potential security implications.
 
