@@ -1,5 +1,15 @@
 # IMAGEBOARDS (PHP 8.4.1+)
 
+Why not use existing image boards?
+
+Vichan- devs do not bother making it work on latest php version, but they all gas-light people by saying it is being worked on. It has been 4 years and it still does not even nearly work on the latest version of php. Absurd. 
+
+Lynxchan/JSChan  Node Js is not secure by design. Deps that call on deps that call on deps make it absurdly impossible to make secure. I think lynxchan looks and acts the best of any imageboard, but good luck keeping it updated when new versions of ubuntu or rocky come out. Of note, devs like lynxchan maker REFUSE to make standard install scripts - because they KNOW that the app is not secure and never will be. Always the excuses from devs as to why NOT to make a standard install script from a blank server- but professional apps like ghost blog have full install scripts. Lynxchan/jschan are both FAR from that professional level. 
+
+Tinyib- nice, moved to rocket9, but quit dev a while ago. Lots of deprications, like video upload. You can fix the deprications, but then new issues pop up here and there and you realize solidly that the code is just too old. It should be entirely redone to PHP 8.4.1+ standards.
+
+In contrast to the above apps, some of which have hundreds of files, one can do nearly the same thing with a single page or 2 of php, and keep it updated, AND make it work for the latest php version AND not have install issues. Note--- I've made some Rust imageboards, and AI is almost there to make fully awesome imageboards and edit and update and audit the code. I'm just waiting a tiny bit- AI is literally a step away to the standards of being able to make imageboards in Rust. Chatgpt can do it now, but the boards are not good enough to expect a huge following and lots of people to use. VERY close tho!! 
+
 each folder, like /sqlite3 or /json will contain simple imageboards for the noted db. For example, each folder in the /sqlite folder will be its own sqlite app. 
 
 The collection of boards here is more of a starter kit than a production ready library of code. HOWEVER, all the apps you find here will work on php 8.4.1 and above, ALL of them are small enough for you to feed to chatgpt to edit or audit, and all of them are made to be somewhat secure (secure for PHP, that is). 
