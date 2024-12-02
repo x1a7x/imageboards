@@ -1,5 +1,7 @@
 # IMAGEBOARDS (PHP 8.4.1+)
 
+each folder, like /sqlite3 or /json will contain simple imageboards for the noted db. For example, each folder in the /sqlite folder will be its own sqlite app. 
+
 The collection of boards here is more of a starter kit than a production ready library of code. HOWEVER, all the apps you find here will work on php 8.4.1 and above, ALL of them are small enough for you to feed to chatgpt to edit or audit, and all of them are made to be somewhat secure (secure for PHP, that is). 
 
 Lets get real. There are not many logical use cases for PHP, as Golang and best of all RUST is far superior by all objective measures. Fake click bait youtube titles (any prime or theo clickbait title video) that highlights the lang of the week just go in circles and make you stupider. Ask AI a NON LEADING set of questions, and AI will tell you that Rust is far superior- to run a machine in space for 50 years straight or to run a secure and ultra fast imageboard. Make NO mistake. Today, and likely for a long time, Rust lang is god. 
