@@ -1,3 +1,12 @@
+
+
+
+
+![demo](https://github.com/user-attachments/assets/f3013845-6981-467d-98df-3fc9edab853b)
+
+
+
+
 # Special Message Board Application
 
 This is a very basic PHP-based message board application that allows users to post messages directly via the URL bar of their browser. Unlike typical message boards that use a form to submit content, this version requires users to append their messages directly to the URL using a query parameter. This README will guide you through how the application works, its limitations, and the potential security implications.
