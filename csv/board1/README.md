@@ -1,7 +1,7 @@
 
 # board1 
 
-How It Works
+How It Works-
 Automatic Setup:
 
 If the uploads directory doesn't exist, it is created.
