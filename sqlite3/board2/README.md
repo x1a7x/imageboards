@@ -1,5 +1,5 @@
 
-This is archived. dev will continue at my /phpib repo
+# /board2 - this is actually a few different boards
 
 
 
