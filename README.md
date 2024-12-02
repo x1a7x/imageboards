@@ -1,5 +1,8 @@
 # IMAGEBOARDS (PHP 8.4.1+)
 
+PHP simple imageboards- all tested on [PHP 8.4.1+] this will be a HUGE collection of working boards.
+
+
 Why not use existing image boards?
 
 Vichan- devs do not bother making it work on latest php version, but they all gas-light people by saying it is being worked on. It has been 4 years and it still does not even nearly work on the latest version of php. Absurd. 
