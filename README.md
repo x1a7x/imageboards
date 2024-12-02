@@ -55,6 +55,8 @@ Many PHP applications rely on third-party libraries and frameworks, which may th
 
 While PHP’s ecosystem has matured significantly with the introduction of better security practices and features, its long history and widespread use make it a frequent target for attackers. To mitigate these risks, developers should stay updated with the latest PHP releases, employ secure coding practices, and leverage modern frameworks that prioritize security. Regular code reviews, vulnerability scanning, and adherence to best practices are critical for reducing the attack surface and ensuring application security.
 
+# Make ZERO mistake. PHP is fun to mess with, but RUST LANG is far superior. 
+
 
 
 
