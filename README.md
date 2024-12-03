@@ -1,6 +1,6 @@
 # IMAGEBOARDS (PHP 8.4.1+)
 
-PHP simple imageboards- all tested on [PHP 8.4.1+] Ultimate starter kit for modern, working boards.
+PHP simple imageboards- all tested on [PHP 8.4.1+] Ultimate starter kit for modern, working boards. If something does not work, it is YOU. I tested all of the code here on php 8.4.1- all of it. This repo contains boards that i used to only dream of when i first got into coding. 
 
 
 Why not use existing image boards?
